@@ -1,0 +1,48 @@
+2013-03-04 17:23:45     error sass/style.scss (Line 35: File to import not found or unreadable: partials/page.
+Load paths:
+  C:/Users/skrauss/Desktop/GitHub/imagemapper/sass
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-2.1.0.1/vendor/assets/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.1/sass
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/common/sassy-math-1.2/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/common/modular-scale-1.0.2/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-3.1.1/scss
+  Compass::SpriteImporter)
+2013-03-04 17:23:45 overwrite stylesheets/style.css 
+2013-03-04 17:23:45     error sass/style.scss (Line 35: File to import not found or unreadable: partials/page.
+Load paths:
+  C:/Users/skrauss/Desktop/GitHub/imagemapper/sass
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-2.1.0.1/vendor/assets/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.1/sass
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/common/sassy-math-1.2/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/common/modular-scale-1.0.2/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-3.1.1/scss
+  Compass::SpriteImporter)
+2013-03-04 17:23:45 overwrite stylesheets/style.css 
+2013-03-04 17:23:50 overwrite stylesheets/style.css 
+2013-03-04 17:39:56     error sass/style.scss (Line 48: File to import not found or unreadable: partials/_uploadstyles.
+Load paths:
+  C:/Users/skrauss/Desktop/GitHub/imagemapper/sass
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-2.1.0.1/vendor/assets/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/susy-1.0.1/sass
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/common/sassy-math-1.2/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/common/modular-scale-1.0.2/stylesheets
+  C:/Users/skrauss/Desktop/fire.app/lib/ruby/compass_extensions/zurb-foundation-3.1.1/scss
+  Compass::SpriteImporter)
+2013-03-04 17:39:56 overwrite stylesheets/style.css 
+2013-03-04 17:40:15 overwrite stylesheets/style.css 
+2013-03-04 17:44:02 overwrite stylesheets/style.css 
